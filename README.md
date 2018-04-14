@@ -1,6 +1,6 @@
 # php.docker
 
-非常感谢 [php.docker](https://github.com/RystLee/php.docker) PHP.Docker 是简化定制之后的产物，方便学习使用。
+非常感谢 [DevDock](https://github.com/RystLee/DevDock) PHP.Docker 是简化定制之后的产物，方便学习使用。
 
 
 ## 支持的软件 (镜像)
